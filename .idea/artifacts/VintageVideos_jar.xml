@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VintageVideos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VintageVideos_jar</output-path>
+    <root id="archive" name="VintageVideos.jar">
+      <element id="module-output" name="VintageVideos" />
+    </root>
+  </artifact>
+</component>

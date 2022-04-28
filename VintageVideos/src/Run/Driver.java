@@ -9,7 +9,7 @@ public class Driver {
 
 
     public static void main(String[] args) throws IOException {
-        File file = new File("src/Run/list");
+        File file = new File("VintageVideos/src/Run/list");
         Parser parsing = new Parser();
         BufferedReader br = new BufferedReader(new FileReader(file));
         ArrayList<String> myList = new ArrayList<>();
